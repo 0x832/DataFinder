@@ -17,7 +17,7 @@ entre muchas otras opciones, aprovechando los operadores avanzados de búsqueda 
 - **Buscar archivos por tipo:** Encuentra archivos de un tipo específico, como PDF, documentos de Word o archivos de Excel.
 - **Filtrar por fecha:** Limita los resultados a información publicada antes o después de una fecha determinada.
 - **Búsqueda avanzada:** Encuentra resultados que contengan ciertas palabras en el título, en la URL o en el contenido de la página.
-- **Opción de búsqueda directa o específica:** Puedes realizar búsquedas generales escribiendo directamente lo que deseas encontrar o utilizar argumentos más específicos para afinar tu búsqueda.
+- **Opción de búsqueda directa o específica:** Puedes realizar búsquedas generales escribiendo directamente lo que deseas encontrar o utilizar argumentos más específicos para mejorar tu búsqueda.
 
 
 ## Ejemplo de uso:
